@@ -1,0 +1,16 @@
+2:57 p.m. 1/07/2014
+BankErrorCheck version 0.1
+
+- Name added to the output file
+- Versioning is included
+- Removed ambiguity on number of files processed
+- Parse date as argument through cmd
+- Config file added
+
+
+3:14 p.m. 1/07/2014
+BankErrorCheck version 0.2
+
+- Config ghost report option added
+- "No errors" text instead of number "0"
+- Added standalone run.py for easier executing the program
