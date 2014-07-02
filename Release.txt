@@ -7,7 +7,6 @@ BankErrorCheck version 0.1
 - Parse date as argument through cmd
 - Config file added
 
-
 3:14 p.m. 1/07/2014
 BankErrorCheck version 0.2
 
@@ -25,3 +24,17 @@ BankErrorCheck version 0.3
 BankErrorCheck version 0.4
 
 - Added paramiko module
+- Added support for SSH connection to report files
+
+6:30 p.m. 2/07/2014
+BankErrorCheck version 0.5
+
+- Versioning in output
+- Error reporting using file path instead of file directory
+- Updated wording for errors
+- Updated wording for date
+
+6:37 p.m. 2/07/2014
+BankErrorCheck version 0.6
+
+- Added SSH information to config.cfg
