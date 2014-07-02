@@ -1,6 +1,6 @@
-import os, configparser, time, argparse
+import os, ConfigParser, time, argparse, paramiko
 
-config = configparser.ConfigParser()
+config = ConfigParser.ConfigParser()
 config.read('config.cfg')
 
 parser = argparse.ArgumentParser(description='Collect the date of reports to check.')

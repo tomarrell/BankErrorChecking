@@ -14,3 +14,14 @@ BankErrorCheck version 0.2
 - Config ghost report option added
 - "No errors" text instead of number "0"
 - Added standalone run.py for easier executing the program
+
+3:33 p.m. 1/07/2014
+BankErrorCheck version 0.3
+
+- Added ability to process all files when date = 0
+- Updated error keywords based on file contents
+
+3:25 p.m. 2/07/2014
+BankErrorCheck version 0.4
+
+- Added paramiko module
