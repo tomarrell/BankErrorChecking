@@ -38,3 +38,38 @@ BankErrorCheck version 0.5
 BankErrorCheck version 0.6
 
 - Added SSH information to config.cfg
+
+11:07 a.m. 3/07/2014
+BankErrorCheck version 1.0
+
+- Compiled as Windows executable using Pyinstaller
+- Check if host is present within config.cfg
+- Asks to save SSH details within config.cfg
+
+4:16 p.m. 3/07/2014
+BankErrorCheck version 1.1
+- Hides SSH password input
+- Output file more user friendly
+- Shows total files mapped
+- Fixed file comparison bug
+- Added number of files for each category in output
+- Updated wording to aid understanding
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
