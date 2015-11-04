@@ -1,7 +1,7 @@
 Created by Tom Arrell
 See Release.txt for versioning details.
 
-HOWTO:
+## HOWTO:
 
 Edit path and SSH details within config.cfg.
 
