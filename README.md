@@ -1,3 +1,4 @@
+#BankErrorChecking
 Created by Tom Arrell
 See Release.txt for versioning details.
 
@@ -10,4 +11,4 @@ In order to run the program, within cmd, navigate to the containing directory an
 
 \>> BankErrorCheck [DATE TO CHECK]
 
-The [DATE TO CHECK] parameter must be included otherwise the program will produce an error. 
+The [DATE TO CHECK] parameter must be included otherwise the program will produce an error.
