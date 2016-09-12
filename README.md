@@ -1,5 +1,4 @@
 #BankErrorChecking
-Created by Tom Arrell
 See Release.txt for versioning details.
 
 ## HOWTO:
